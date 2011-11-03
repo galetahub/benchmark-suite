@@ -1,0 +1,11 @@
+= Benchmark suite
+
+== Setup
+
+  bundle install
+
+== Usage
+
+  ruby test.rb
+
+Copyright (c) 2011 Aimbulance, released under the MIT license
